@@ -42,19 +42,13 @@
 ## Work Experience
 
 ### Celigo - SDE-II (July 2023 - Present)
-- Led Salesforce MS decoupling from monolith - WebSocket-based service handling ~5k concurrent connections/sec
-- Implemented auto-recovery for rate-limit errors using event-driven architecture, reducing errors by 30%
-- Drove infra optimizations via flame graph, Docker profiling, and load testing on K8s - reducing CPU by ~25%
-- Configured observability using New Relic, Splunk, PagerDuty, set up KEDA autoscaler
-- Scrum Master for Titans team, built sprint analysis tools using Jira MCP and LLM API wrappers
+Led Salesforce MS decoupling from monolith handling ~5k concurrent connections/sec. Implemented auto-recovery for rate-limit errors reducing errors by 30%. Drove infra optimizations on K8s reducing CPU by ~25%. Configured observability using New Relic, Splunk, PagerDuty. Scrum Master for Titans team.
 
 ### Celigo - SDE-I / Intern (Jan - June 2023)
-- Decoupled NetSuite MS from monolith, worked on SS1.0/SS2.0 SuiteScripts
-- Resolved SonarQube security hotspots, added REST API endpoints across WebSocket and HTTP protocols
+Decoupled NetSuite MS from monolith, worked on SS1.0/SS2.0 SuiteScripts. Resolved SonarQube security hotspots, added REST API endpoints across WebSocket and HTTP protocols.
 
 ### Zomato - SWE Intern (June - Aug 2022)
-- Built Rain Surge system with feedback-based algorithm using IoT sensor and rider input data
-- Worked on Protobuf and gRPC for cross-platform event consumption during Blinkit-Zomato merger
+Built Rain Surge system with feedback-based algorithm using IoT sensor and rider input data. Worked on Protobuf and gRPC for cross-platform event consumption during Blinkit-Zomato merger.
 
 ---
 
