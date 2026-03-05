@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Ankur%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20(3%20YOE)%20|%20Backend%20%26%20Distributed%20Systems%20|%20NIT%20Delhi&descSize=16&descAlignY=70)
+# Hi, I'm Ankur Kumar 👋
+
+### Software Engineer (3 YOE) | Backend & Distributed Systems | NIT Delhi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BA55D3&width=600&lines=SDE-II+at+Celigo+(iPaaS);CF+Expert+%7C+CC+5+Star+%7C+2000%2B+Problems;Building+Jarvis+-+Personal+AI+Agent;Solving+Hard+Problems+at+Scale)](https://git.io/typing-svg)
 
@@ -73,5 +75,3 @@ A GenAI-powered personal agent using NodeJS, LLM orchestration, tool-calling, an
 [![GitHub](https://img.shields.io/badge/GitHub-AnkurKumar1947-black?style=for-the-badge&logo=github)](https://github.com/AnkurKumar1947)
 
 ![Visitors](https://komarev.com/ghpvc/?username=AnkurKumar1947&color=blueviolet&style=for-the-badge)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
