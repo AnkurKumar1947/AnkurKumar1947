@@ -6,7 +6,7 @@
 
 ## About Me
 
-- SDE-II at **Celigo** (iPaaS) - building WebSocket-based microservices handling ~5k conn/sec
+- SDE-II at **Celigo** (iPaaS) - Solving Hard Problems at Scale
 - Previously interned at **Zomato** - built Rain Surge system with IoT + gRPC
 - Building **Jarvis** - a GenAI-powered personal AI agent with voice & natural language
 - **CF Expert (1622)** | **CC 5 Star (2035)** | **2000+ problems** solved | **400+ day streak**
