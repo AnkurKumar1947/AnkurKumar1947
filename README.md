@@ -66,15 +66,6 @@ A GenAI-powered personal agent using NodeJS, LLM orchestration, tool-calling, an
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkurKumar1947&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkurKumar1947&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankur-kumar-857b611a3/)
